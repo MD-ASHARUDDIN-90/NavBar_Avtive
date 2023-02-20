@@ -8,6 +8,7 @@ p {
   gap: 2rem;
   justify-content: space-around;
   background-color: cadetblue;
+  cursor: pointer;
 }
 
 
